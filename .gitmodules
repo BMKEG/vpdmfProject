@@ -16,3 +16,6 @@
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
 	url = https://github.com/BMKEG/bmkeg-parent
+[submodule "lapdftext"]
+	path = lapdftext
+	url = https://github.com/BMKEG/lapdftext
