@@ -1,0 +1,18 @@
+[submodule "vpdmfCore"]
+	path = vpdmfCore
+	url = https://github.com/BMKEG/vpdmfCore
+[submodule "vpdmfModels"]
+	path = vpdmfModels
+	url = https://github.com/BMKEG/vpdmfModels
+[submodule "vpdmfFlex"]
+	path = vpdmfFlex
+	url = https://github.com/BMKEG/vpdmfFlex
+[submodule "uml"]
+	path = uml
+	url = https://github.com/BMKEG/uml
+[submodule "bmkeg-utils"]
+	path = bmkeg-utils
+	url = https://github.com/BMKEG/bmkeg-utils
+[submodule "bmkeg-parent"]
+	path = bmkeg-parent
+	url = https://github.com/BMKEG/bmkeg-parent
