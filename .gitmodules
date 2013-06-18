@@ -16,3 +16,6 @@
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
 	url = https://github.com/BMKEG/bmkeg-parent
+[submodule "vpdmfGenerator"]
+	path = vpdmfGenerator
+	url = https://github.com/BMKEG/vpdmfGenerator
