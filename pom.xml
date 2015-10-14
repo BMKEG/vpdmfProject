@@ -18,6 +18,7 @@
 		<module>vpdmfFlex</module>
 		<module>vpdmfGenerator</module>
 		<module>vpdmf-parent</module>
+		<module>vpdmf-digitalLibrary</module>
 	</modules>
 
 	<build>
