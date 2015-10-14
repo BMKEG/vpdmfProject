@@ -22,3 +22,6 @@
 [submodule "vpdmfContainer"]
 	path = vpdmfContainer
 	url = ./vpdmfContainer/
+[submodule "vpdmf-parent"]
+	path = vpdmf-parent
+	url = ./vpdmf-parent/
